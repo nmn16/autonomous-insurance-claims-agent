@@ -1,0 +1,30 @@
+FIRST NOTICE OF LOSS (FNOL) - MOTOR INSURANCE
+
+POLICY INFORMATION
+Policy Number: POL-2025-013355
+Policyholder Name: Arjun Bhat
+Effective Date: 2025-06-01
+Expiry Date: 2026-05-31
+
+INCIDENT INFORMATION
+Incident Date: 2025-11-02
+Incident Time: 23:50
+Location: Silk Board Junction, Bengaluru, Karnataka
+Description: Low speed collision reported at night. The claimant says his passenger has a minor
+wrist injury. Witness statements are inconsistent with the claimant's account and the
+collision appears staged.
+
+INVOLVED PARTIES
+Claimant: Arjun Bhat
+Third Parties: Unknown driver (fled the scene)
+Contact Details: +91 90000 66666, arjun.bhat@example.com
+
+ASSET DETAILS
+Asset Type: Car (Hatchback)
+Asset ID: KA-01-PQ-9753
+Estimated Damage: ₹12,000
+
+OTHER DETAILS
+Claim Type: Injury
+Attachments: witness_statements.pdf
+Initial Estimate: ₹12,000

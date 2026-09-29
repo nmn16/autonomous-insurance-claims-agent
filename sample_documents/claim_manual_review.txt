@@ -1,0 +1,29 @@
+FIRST NOTICE OF LOSS (FNOL) - MOTOR INSURANCE
+
+POLICY INFORMATION
+Policy Number: POL-2025-011870
+Policyholder Name: Sneha Pillai
+Effective Date: 2025-05-01
+Expiry Date: 2026-04-30
+
+INCIDENT INFORMATION
+Incident Date: 2025-10-11
+Incident Time: 16:20
+Location: Electronic City Phase 1, Bengaluru, Karnataka
+Description: Vehicle hit a concrete pillar while reversing in an underground parking area.
+Front and rear panels, both bumpers and the rear lights were damaged.
+
+INVOLVED PARTIES
+Claimant: Sneha Pillai
+Third Parties: None
+Contact Details: +91 90000 55555, sneha.pillai@example.com
+
+ASSET DETAILS
+Asset Type: Car (SUV)
+Asset ID: KA-02-MN-8642
+Estimated Damage: ₹85,000
+
+OTHER DETAILS
+Claim Type: Collision
+Attachments: damage_photos.zip, garage_estimate.pdf
+Initial Estimate: ₹82,000

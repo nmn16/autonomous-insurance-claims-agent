@@ -1,0 +1,29 @@
+FIRST NOTICE OF LOSS (FNOL) - MOTOR INSURANCE
+
+POLICY INFORMATION
+Policy Number: POL-2025-009102
+Policyholder Name: Meera Iyer
+Effective Date: 2025-02-10
+Expiry Date: 2026-02-09
+
+INCIDENT INFORMATION
+Incident Date: 2025-09-05
+Incident Time: 02:30
+Location: Whitefield Main Road, Bengaluru, Karnataka
+Description: Vehicle reported stolen from an unattended parking area overnight. The
+insurer helpline received an anonymous tip that this may be a case of fraud.
+
+INVOLVED PARTIES
+Claimant: Meera Iyer
+Third Parties: None
+Contact Details: +91 90000 33333, meera.iyer@example.com
+
+ASSET DETAILS
+Asset Type: Car (SUV)
+Asset ID: KA-05-GH-2468
+Estimated Damage: ₹6,50,000
+
+OTHER DETAILS
+Claim Type: Theft
+Attachments: police_fir_copy.pdf
+Initial Estimate: ₹6,50,000

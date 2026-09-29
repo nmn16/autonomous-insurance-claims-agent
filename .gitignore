@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.vscode/
+.idea/
+sample_documents/*.pdf

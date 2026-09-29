@@ -1,0 +1,29 @@
+FIRST NOTICE OF LOSS (FNOL) - MOTOR INSURANCE
+
+POLICY INFORMATION
+Policy Number: POL-2025-007733
+Policyholder Name: Vikram Desai
+Effective Date: 2025-03-01
+Expiry Date: 2026-02-28
+
+INCIDENT INFORMATION
+Incident Date: 2025-08-03
+Incident Time: 21:10
+Location: NH-48 near Hoskote Toll Plaza, Bengaluru Rural, Karnataka
+Description: Our car was hit from behind by a truck at the toll queue. My passenger
+reported severe neck and back pain and was admitted to a hospital for observation.
+
+INVOLVED PARTIES
+Claimant: Vikram Desai
+Third Parties: Manoj Kumar (truck driver, KA-51-CD-9090)
+Contact Details: +91 90000 22222, vikram.desai@example.com
+
+ASSET DETAILS
+Asset Type: Car (Sedan)
+Asset ID: KA-04-EF-5678
+Estimated Damage: ₹1,20,000
+
+OTHER DETAILS
+Claim Type: Injury
+Attachments: medical_report.pdf, police_report.pdf, damage_photos.zip
+Initial Estimate: ₹1,10,000
